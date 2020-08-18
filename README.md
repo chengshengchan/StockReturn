@@ -1,6 +1,8 @@
 # StockReturn
 A dashboard to display the return of TW stock.
 
+![image](https://github.com/chengshengchan/StockReturn/blob/master/imgs/Dashboard.png)
+
 # Requirements
 ```
 twstock
